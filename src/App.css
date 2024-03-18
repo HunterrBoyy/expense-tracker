@@ -1,0 +1,57 @@
+
+.flex {
+  display: flex;
+}
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+.parent {
+  height: 400px;
+  width: 310px;
+  border: 1px solid black;
+  border-radius: 19px;
+  padding: 10px;
+  background: #f5f5f5;
+}
+.box {
+  height: 80px;
+  width: 90%;
+  border: 1px solid black;
+  border-radius: 18px;
+  padding: 10px;
+  background: #3f2148;
+  color: #cbbdce;
+}
+button {
+  border-radius: 8px;
+  padding: 5px;
+  background: #8a6095;
+  color: #d2b7db;
+}
+.history-box {
+  height: 180px;
+  width: 90%;
+  border: 1px solid black;
+  border-radius: 18px;
+  padding: 10px;
+  background: #3f2148;
+}
+.w-30 {
+  width: 30%;
+}
+.w-10 {
+  width: 10%;
+}
+.space-evenly {
+  justify-content: space-evenly;
+}
+.space-between {
+  justify-content: space-between;
+}
+.button-height {
+  height: 30px;
+}
